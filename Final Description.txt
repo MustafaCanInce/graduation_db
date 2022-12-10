@@ -1,0 +1,73 @@
+Final
+Dear DB students, I'd like to thank all who worked hard throughout the semester, joined the courses & lab hours.
+
+Your final exam will be a demo.
+
+You can only attend the demo if you bring your spec with my feedback. So make sure you picked up your spec before loading your data. 
+
+I will ask questions about the theoretical and practical questions on your own database project. You will prepare a report and share with me the Google drive location of your final report, all your GUI codes, your sql codes, your finalized mwb files as well.
+
+PLEASE PLEASE PLEASE SHARE YOUR GOOGLE DRİVE WITH tsuzek@gmail.com
+
+Please normalize your tables according to 3NF principles. During the final, I will check
+
+
+Insert/ Delete/ Update
+
+Indexes
+
+Aggregate function with group by?
+
+StoredProc? With IN? With OUT? INOUT
+
+Fixed according to 3NF/Functional dependencies
+
+Sufficiently large number of rows/tables? Did completely load the whole data?
+
+Spec(brought and fixed)
+
+Emailed (Google Drive) the Final Report
+
+Join
+
+View
+
+Relational Algebra
+
+
+-----------------------------------------------------------
+son
+Sevgili DB öğrencileri, dönem boyunca çok çalışan, derslere ve laboratuvar saatlerine katılan herkese teşekkür etmek istiyorum.
+
+Final sınavınız bir demo olacaktır.
+
+Demoya ancak özelliklerinizi geri bildirimimle birlikte getirirseniz katılabilirsiniz. Bu nedenle, verilerinizi yüklemeden önce spesifikasyonunuzu aldığınızdan emin olun.
+
+Kendi veri tabanı projeniz hakkında teorik ve pratik sorular soracağım. Bir rapor hazırlayacak ve nihai raporunuzun Google sürücü konumunu, tüm GUI kodlarınızı, sql kodlarınızı, kesinleşmiş mwb dosyalarınızı da benimle paylaşacaksınız.
+
+LÜTFEN LÜTFEN GOOGLE DRİVE'İNİZİ tsuzek@gmail.com İLE PAYLAŞIN
+
+Lütfen tablolarınızı 3NF ilkelerine göre normalleştirin. Final sırasında kontrol edeceğim
+
+
+Ekle/ Sil/ Güncelle
+
+dizinler
+
+Grupla toplama işlevi?
+
+StoredProc? İçinde? Olmadan? INOUT
+
+3NF/Fonksiyonel bağımlılıklara göre düzeltildi
+
+Yeterince fazla sayıda satır/tablo? Tüm verileri tamamen yüklediniz mi?
+
+Spec (getirildi ve düzeltildi)
+
+Nihai Raporu e-postayla gönderdi (Google Drive)
+
+Katılmak
+
+görüş
+
+ilişkisel cebir
